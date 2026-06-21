@@ -1,0 +1,14 @@
+pandas
+numpy
+pyspark
+xarray
+netCDF4
+geopandas
+shapely
+pyproj
+scikit-learn
+matplotlib
+plotly
+streamlit
+pymongo
+tqdm
